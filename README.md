@@ -14,6 +14,8 @@ AlamofireObjectMapper
 # API
 
 https://coinmarketcap.com
+# Demo
+
 
 ![Demo](https://media.giphy.com/media/xT1R9O5gbL9x65IDuM/giphy.gif)
 
