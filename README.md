@@ -15,6 +15,8 @@ AlamofireObjectMapper
 
 https://coinmarketcap.com
 
+![Demo](https://media.giphy.com/media/xT1R9O5gbL9x65IDuM/giphy.gif)
+
 
 
 
